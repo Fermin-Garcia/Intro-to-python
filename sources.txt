@@ -1,0 +1,3 @@
+https://www.python.org/doc/essays/blurb/
+
+https://peps.python.org/pep-0008/
